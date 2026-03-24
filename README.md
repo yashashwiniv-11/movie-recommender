@@ -27,7 +27,7 @@ movie-recommender/
 ▶️ How to Run
 
 Clone this repository:
-git clone https://github.com/your-username/movie-recommender.git
+git clone  https://github.com/yashashwiniv-11/movie-recommender.git
 Go to the project folder:
 cd movie-recommender
 Install the required libraries:
